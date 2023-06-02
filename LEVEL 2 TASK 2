@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <style>
+ 
+        /* Styling the body element
+        like body color and margin */
+         
+        body {
+            background-color: #f4f8f8;
+            margin: 20%;
+        }
+ 
+        /* Styling the Title and giving
+        shadow to the title */
+        #title {
+            text-align: center;
+            text-shadow: 5px 5px 10px white;
+            font-size: 7vh;
+        }
+ 
+        /* Setting width and display
+        type of image */
+        img {
+            display: inline-block;
+            width: 100%;
+        }
+ 
+        /* Styling the content of the page like-
+        padding, font-size, font color etc.*/
+        div#tribute-data {
+            background-color: rgba(206, 206, 223, 0.984);
+            box-shadow: 20px 20px 20px #3e4772;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 2px;
+            margin-top: 50px;
+        }
+ 
+        /* Styling the title of the content */
+        h1.title-SAINA {
+            font-size: 35px;
+            color: rgb(73, 72, 72);
+            text-align: center;
+            text-shadow: 5px 5px 10px rgb(254, 251, 251);
+        }
+ 
+        /* Styling the link provided at the end */
+        #tribute-link {
+            text-decoration: none;
+            color: black;
+        }
+    </style>
+</head>
+ 
+<body>
+    <main id="main">
+ 
+        <!-- Title of the page -->
+        <h1 id="title">
+            SAINA NEHWAL
+        </h1>
+ 
+        <div id="img">
+ 
+            <!--Image of the Tribute Person-->
+            <img src="https://s.ndtvimg.com/images/content/2015/mar/806/saina-nehwal-india-open-2015-winner.jpg"
+                alt="">
+        </div>
+ 
+        <div id="tribute-data">
+ 
+            <!--Achievements and other
+                details of the person-->
+            <h1 class="title-SAINA">
+                About NEHWAL
+            </h1>
+ 
+             
+ 
+<p>
+                ☛ Saina Nehwal, born 17 March 1990 is an 
+                Indian professional badminton player. 
+                A former world no. 1, she has won 24 international 
+                titles, which includes ten Superseries
+                titles.<br><br>
+                ☛ She is the first Indian badminton player to have 
+                won an Olympic medal, the first Indian to have reached 
+                the final of the BWF World Championships, and the first 
+                Indian to have won the BWF World Junior Championships.<br><br>
+                ☛ Considered one of India's most successful badminton 
+                players, Nehwal is credited for increasing the popularity 
+                of badminton in India.In 2016, she was conferred the 
+                Padma Bhushan-India's third highest civilian award .<br><br>
+                ☛ Saina Nehwal, the daughter of Harvir Singh Nehwal 
+                and Usha Rani Nehwal, was born in Hisar.She has only 
+                one sibling, an elder sister named Chandranshu Nehwal.<br><br> 
+                ☛ Her parents played badminton for a number of years.
+                Her mother, Usha Rani, was a state level badminton player 
+                in Haryana.Nehwal took up badminton to fulfill her mother's 
+                dream of becoming a national level badminton player, while 
+                her sister played volleyball.<br><br> 
+                ☛ She trained under Pullela Gopichand in his academy Gopichand
+                Badminton Academy. In 2014, she parted with Gopichand and joined 
+                Prakash Padukone Badminton Academy in Bangalore and trained under 
+                U. Vimal Kumar under whose training she became World number one.
+                She later in 2017 returned to train under Gopichand.<br><br> 
+                ☛ Nehwal and her family speak the Haryanvi language at home.
+                She is a fan of Shah Rukh Khan and Mahesh Babu. She is in the 
+                process of opening a badminton academy in her native state of Haryana.<br><br> 
+                ☛ She married a badminton player, Parupalli Kashyap in a private 
+                ceremony on 14 December 2018.<br><br> 
+                ☛ Nehwal joined the Bharatiya Janata Party in Delhi on 29 January 2020 
+                in the presence of party's national general secretary Arun Singh. 
+                Her sister Abu Chandranshu Nehwal also joined the party. 
+                She was quoted as saying "Narendra Modi is working hard for the country
+                and has always inspired me."<br><br> 
+                ☛ <b>AWARDS</b>:<br>
+                * Most Promising Player of the Year (2008) award by Badminton World Federation.<br>
+                * Arjuna Award (2009).<br>
+                * Padma Shri (2010).<br>
+                * Padma Bhushan (2016).<br><br> 
+                ☛ In 2002, sports brand Yonex offered to sponsor Nehwal's kit. 
+                As her status and rankings improved, the number of sponsorships also increased. 
+                In 2004, Bharat Petroleum signed the rising star. She is one of the athletes 
+                supported by Olympic Gold Quest.She endorses Commune Builder,Edelweiss Group,Emami,
+                Fortune Cooking Oil,Godrej No Marks and many more.<br><br> 
+                ☛ Her autobiography, <b><i>Playing to Win: My Life On and Off Court</i></b>,was released in 2012.<br><br> 
+                ☛ Saina, a biopic based on her life, directed by Amol Gupte with actress 
+                Parineeti Chopra playing the title role, was released in 2021.<br><br> 
+                ☛ Saina Nehwal Institute of Agricultural Technology, Training & Education
+                at Chaudhary Charan Singh Haryana Agricultural University is named after her.<br><br> 
+                <br><br><br>
+            </p>
+ 
+ 
+        </div>
+    </main>
+</body>
+ 
+</html>
